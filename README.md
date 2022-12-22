@@ -1,11 +1,12 @@
 
 <h1 align="center">Hello, I'm Leonardo Rosa 👋</h1>
-<h3 align="center">I'm an Electrical Engineering student who always wants to learn more and more about technology.</h3>
+<h3 align="center">I'm an Electrical Engineering student and a technology enthusiast. Interested on Embedded Systems in my working time and astronomy, music and visual arts in my free time.</h3>
 
 ## **About Me:**
 
 - 🔭 I’m currently working on a **On-Board computer for a sounding rocket.**
-- 🌱 I’m currently learning **R, Python and C++.**
+- 🌱 I’m currently learning **Python and C++.**
+- 📫 Reach me at leonardogabriel.rosa@uel.br
 
  <br />
  <p align="center">

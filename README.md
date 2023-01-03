@@ -5,7 +5,7 @@
 ## **About Me:**
 
 - 🔭 I’m currently working on a **On-Board computer for a sounding rocket.**
-- 🌱 I’m currently learning **Python and C++.**
+- 🌱 I’m currently learning **Java**.
 - 📫 Reach me at leonardogabriel.rosa@uel.br
 
  <br />

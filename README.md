@@ -1,4 +1,6 @@
-
 <h1 align="center">Hello, I'm Leonardo Rosa 👋</h1>
-<h3 align="center">I'm an Electrical Engineering student and a technology enthusiast. Focused on Embedded Systems in my working time and interested on astronomy, music and visual arts in my free time.</h3>
-
+<h3 align="left">
+    I’m a recent graduate in Electrical Engineering from UEL - State University of Londrina, focused on Embedded Systems and engaged in rocketry.<br><br>
+    Here you’ll mainly find some projects I created to learn programming, others just to satisfy my curiosity about random wonderings.<br><br>
+    In my free time, I enjoy exploring astronomy, music, visual arts, and design.
+</h3>
